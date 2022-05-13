@@ -2,4 +2,4 @@
 
 ### Reference Documentation
 
-For more information please take a look [there](https://ulrichinaction.blogspot.com/2022/05/create-and-use-result-captor-in-mockito.html)
+For more information please take a look [there](https://dev.to/ulrich/create-and-use-a-result-captor-in-mockito-1l9i)
